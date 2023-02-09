@@ -1,0 +1,169 @@
+#include<stdio.h>
+int main(){
+    char ch;
+    printf("\nEnter the character:\n");
+    scanf(" %c",&ch);
+ 
+    switch(ch){
+        case 'a':
+           printf (" a is vowel");
+           break;
+        case 'A':
+           printf (" A is vowel");
+           break;
+        case 'e':
+           printf (" e is vowel");
+           break;
+        case 'E':
+           printf (" E is vowel");
+           break;
+        case 'i':
+           printf (" i is vowel");
+           break;
+        case 'I':
+           printf (" I is vowel");
+           break;
+        case 'o':
+           printf (" o is vowel");
+           break;
+        case 'O':
+           printf (" O is vowel");
+           break;
+        case 'u':
+           printf (" u is vowel");
+           break;
+        case 'U':
+           printf (" U is vowel");
+           break;
+        case 'b':
+           printf(" b is consonant");
+           break;
+        case 'B':
+           printf(" B is consonant");
+           break;
+        case 'c':
+           printf(" c is consonant");
+           break;
+        case 'C':
+           printf(" C is consonant");
+           break;
+        case 'd':
+           printf(" d is consonant");
+           break;
+        case 'D':
+           printf(" D is consonant");
+           break;
+        case 'f':
+           printf(" f is consonant");
+           break;
+        case 'F':
+           printf(" F is consonant");
+           break;
+        case 'g':
+           printf(" g is consonant");
+           break;
+        case 'G':
+           printf(" G is consonant");
+           break;
+        case 'h':
+           printf(" h is consonant");
+           break;
+        case 'H':
+           printf(" H is consonant");
+           break;
+        case 'j':
+           printf(" j is consonant");
+           break;
+        case 'J':
+           printf(" J is consonant");
+           break;
+        case 'k':
+           printf(" k is consonant");
+           break;
+        case 'K':
+           printf(" K is consonant");
+           break;
+        case 'l':
+           printf(" l is consonant");
+           break;
+        case 'L':
+           printf(" L is consonant");
+           break;
+        case 'm':
+           printf(" m is consonant");
+           break;
+        case 'M':
+           printf(" M is consonant");
+           break;
+        case 'n':
+           printf(" n is consonant");
+           break;
+        case 'N':
+           printf(" N is consonant");
+           break;
+        case 'p':
+           printf(" p is consonant");
+           break;
+        case 'P':
+           printf(" P is consonant");
+           break;
+        case 'q':
+           printf(" q is consonant");
+           break;
+        case 'Q':
+           printf(" Q is consonant");
+           break;
+        case 'r':
+           printf(" r is consonant");
+           break;
+        case 'R':
+           printf(" R is consonant");
+           break;
+        case 's':
+           printf(" s is consonant");
+           break;
+        case 'S':
+           printf(" S is consonant");
+           break;
+        case 't':
+           printf(" t is consonant");
+           break;
+        case 'T':
+           printf(" T is consonant");
+           break;
+        case 'v':
+           printf(" v is consonant");
+           break;
+        case 'V':
+           printf(" V is consonant");
+           break;
+        case 'w':
+           printf(" w is consonant");
+           break;
+        case 'W':
+           printf(" W is consonant");
+           break;
+        case 'x':
+           printf(" x is consonant");
+           break;
+        case 'X':
+           printf(" X is consonant");
+           break;
+        case 'y':
+           printf(" y is consonant");
+           break;
+        case 'Y':
+           printf(" Y is consonant");
+           break;
+        case 'z':
+           printf(" z is consonant");
+           break;
+        case 'Z':
+           printf(" Z is consonant");
+           break;
+        default:
+           printf("\n INVALID \n");
+    }
+    return 0;
+    printf("Clarisse Nicole L. Berondo");
+}
